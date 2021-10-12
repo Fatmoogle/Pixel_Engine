@@ -1,6 +1,6 @@
 package pixelengine;
 
-public class pokemon {
+public class Pokemon {
 				
 	String name;
 	int level;

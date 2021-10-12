@@ -1,4 +1,4 @@
-package pixelengine;
+package pixelengine.mammals;
 
 public class Dog extends Mammal {
 
