@@ -43,5 +43,13 @@ public class PixelBuffer {
         	}
         }
     }
+    
+    public int moveRect(int x, int y) {
+		for(int ii = 0; ii < getW(); ii++) {
+			x = ii;
+			System.out.println(x);
+		}
+		return x;
+    }
 	
 }

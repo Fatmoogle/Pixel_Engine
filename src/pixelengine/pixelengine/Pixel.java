@@ -8,7 +8,7 @@ public class Pixel {
 	public static final Pixel yellow = new Pixel(255, 255, 0);
 	public static final Pixel black = new Pixel(0, 0, 0);
 	public static final Pixel white = new Pixel(255, 255, 255);
-	
+
 	private final int value;
 	
 	public Pixel() {

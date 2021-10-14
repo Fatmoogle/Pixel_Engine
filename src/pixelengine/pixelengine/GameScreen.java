@@ -16,7 +16,7 @@ public class GameScreen {
     
     private final int canvasWidth = 640;
     private final int canvasHeight = 360;
-    
+   
     private BufferedImage bufferedImage;
 	
     public GameScreen() {
